@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi 👋, I'm Jack, a Junior Software Developer from Scotland</div>  
+# <div align="center">Hi 👋, I'm Jack, a Junior Software Developer from Scotland</div>  
   
 
 - 🔭 I’m currently completing the **[CodeClan Professional Software Development Course](https://codeclan.com/courses/professional-software-development/)**  
